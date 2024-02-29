@@ -1,4 +1,4 @@
-### Map Navigator and Route Optimization System
+# Map Navigator and Route Optimization System
 
 #### Overview
 This project aims to provide a versatile and efficient navigation and route optimization system. It includes both a GUI application for interactive navigation and a console-based system for batch processing. The project employs various algorithms and data structures for efficient route calculation, including priority queues and Fibonacci heaps.
